@@ -39,9 +39,9 @@ Each challenge category focuses on a different aspect of fullstack development, 
    - **Search and Pagination**: Assess your ability to implement search and pagination features in a user-friendly manner.
 
 
-## Feature Definition
+## Feature Requirements
 
-The feature definitions below encapsulate the essential aspects of building a full-stack application using Next.js, focusing on both backend and frontend development skills. Use [this resource](https://nextjs.org/learn) for your reference.
+The feature requirements below encapsulate the essential aspects of building a full-stack application using Next.js, focusing on both backend and frontend development skills. Use [this resource](https://nextjs.org/learn) for your reference.
 
 1. **Public Home Page**: Develop a public-facing homepage that provides an overview of the dashboard application.
 
